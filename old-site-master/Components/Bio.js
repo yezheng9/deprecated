@@ -5,7 +5,7 @@ function Bio(props) {
         <h3>Ye Zheng's Portfolio Website</h3>
         <h6>About Me:</h6>
         <p>
-            I'm a Computer Science BSE student at Princeton interested in tech! I'm fluent in Python (Django, Colab), Java, C, Javascript (React), R, etc.
+            Stanford CEE
             <hr/>
             Here are my projects:
         </p>
